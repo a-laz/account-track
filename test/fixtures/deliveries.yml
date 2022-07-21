@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zipcode: MyString
+  customer_name: MyString
+  date: 2022-07-20 16:21:07
+  type: 
+
+two:
+  zipcode: MyString
+  customer_name: MyString
+  date: 2022-07-20 16:21:07
+  type: 

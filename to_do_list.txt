@@ -1,4 +1,13 @@
 Need to DO
 
 1. Watir needs to wait for at least 10 seconds before
-scraping with nokogiri
+scraping with nokogiri ✓
+
+2.  load and Iterate through routes
+
+3. For each route iterate through stops and create delivery object that contains info
+such as ✓
+  :customer_name
+  :date
+  :type
+  :zipcode
